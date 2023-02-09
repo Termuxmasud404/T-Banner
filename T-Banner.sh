@@ -2,7 +2,7 @@
 #
 #
 # Termux Banner
-# Banner by Koushik Pal (KP)
+# Banner by Masud Rana (MR)
 # _____Do Not Copy Or Modify_____
 #
 #
@@ -12,9 +12,9 @@ cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
 yellow='\e[1;33m'
-echo -e $lightgreen "\e[1m                KoushikPal.Com "
+echo -e $lightgreen "\e[1m                Md Masud Rana "
 echo " "
-echo -e $yellow "\e[1m                         -Koushik Pal "
+echo -e $yellow "\e[1m                         -MASUD "
 echo " "
 echo " "
 echo " "
