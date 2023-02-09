@@ -18,8 +18,8 @@ cd T-Banner
 
 chmod +x requirement.sh
 
-chmod +x t-ban.sh
+chmod +x T-Banner.sh
 
 bash requirement.sh
 
-bash t-ban.sh
+bash T-Banner.sh
