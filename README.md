@@ -23,3 +23,7 @@ chmod +x T-Banner.sh
 bash requirement.sh
 
 bash T-Banner.sh
+
+bash 84nn3r.txt
+
+bash C0w54y.txt
